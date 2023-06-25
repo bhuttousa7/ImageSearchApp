@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+
+    <string name="customTitle">Image Finder</string>
+    <string name="errorText">Please Connect to Internet and Refresh</string>
+
+    <string name="customLikes">509</string>
+    <string name="customComments">10</string>
+    <string name="customTags">#Usama #Android #Payback</string>
+    <string name="customDownloads">5</string>
+    <string name="customUsername">Usama Bhutto</string>
+</resources>
